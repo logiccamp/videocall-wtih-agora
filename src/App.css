@@ -1,0 +1,11 @@
+#root {
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+body {
+  overflow: hidden !important;
+  margin: 0 !important;
+}
